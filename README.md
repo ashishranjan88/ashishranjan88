@@ -56,7 +56,7 @@ A complete CPU architecture simulation inspired by Morris Mano's Computer System
 ### Tech Stack
 `Logisim` `Digital Logic Design`
 
-🔗 Repository: YOUR_REPOSITORY_LINK
+🔗 Repository: https://github.com/ashishranjan88/Computer_Architecture
 
 ---
 
@@ -73,7 +73,7 @@ A browser extension that improves productivity and enhances the YouTube viewing 
 ### Tech Stack
 `JavaScript` `HTML` `CSS`
 
-🔗 Repository: YOUR_REPOSITORY_LINK
+🔗 Repository:  https://github.com/ashishranjan88/youtube_enhancer
 
 ---
 
@@ -90,7 +90,7 @@ A centralized platform connecting students with internship opportunities.
 ### Tech Stack
 `HTML` `CSS` `JavaScript`
 
-🔗 Repository: YOUR_REPOSITORY_LINK
+🔗 Repository:  https://ashishranjan88.github.io/Internship_Platform/
 
 ---
 
@@ -107,7 +107,7 @@ A computer vision solution designed to monitor helmet compliance and improve roa
 ### Tech Stack
 `Python` `OpenCV`
 
-🔗 Repository: YOUR_REPOSITORY_LINK
+🔗 Repository: https://github.com/ashishranjan88/helmetDetection
 
 ---
 
