@@ -1,147 +1,165 @@
 <h1 align="center">Hi 👋, I'm Ashish Ranjan</h1>
-<h3 align="center">🚀 Full Stack Developer | 🎓 B.Tech Student | 🔐 Blockchain Enthusiast | 🧠 AI & IoT Explorer</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | 🎓 B.Tech CSE Student | 🤖 AI & Computer Vision Enthusiast | 🔗 Blockchain Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&color=00F7FF&width=435&lines=Full+Stack+Web+Developer;IoT+%2B+AI+Project+Builder;React+%7C+Node+%7C+Flask+%7C+Solidity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Building+AI+%26+Computer+Vision+Projects;Blockchain+and+Web3+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashishranjan88&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ashishranjan88?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ashishranjan88?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,framer,solidity,nodejs,express,mongodb,python,opencv,flask,logisim,vite,vercel,web3js,ejs,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,python,opencv,flask,solidity,web3js,vite,vercel,git,github,vscode" />
 </p>
 
 ---
 
-## ✨ Highlight Projects
+# 🚀 Featured Projects
 
-### 🎭 Facial Recognition Attendance System
-> AI-powered attendance management system using face recognition technology.
+## 🎭 Facial Recognition Attendance System
 
-- 👤 Real-time face detection & recognition
-- 📊 Automatic attendance marking
-- 🐍 Built with Python, OpenCV & Face Recognition
+AI-powered attendance management system using real-time facial recognition technology.
+
+### Key Features
+- 👤 Real-time face detection and recognition
+- 📊 Automated attendance tracking
 - 💾 Attendance records stored automatically
+- ⚡ Fast and accurate identification
 
-🔗 **Repository:** [GitHub Link Here]( https://github.com/ashishranjan88/Facial_recognization_attendance_system)
- 
+### Tech Stack
+`Python` `OpenCV` `Face Recognition`
+
+🔗 Repository: https://github.com/ashishranjan88/Facial_recognization_attendance_system
+
 ---
 
-### 🧠 [**Hardwired Computer Architecture (Logisim)**](#)
-> Simulation of a basic **hardwired CPU architecture** 🔧  
-- Includes: **ALU, control unit, registers, memory**  
-- Inspired by Morris Mano textbook  
-- Great hands-on learning of CPU logic & data paths  
-<p align="center">
-  <img src=" https://github.com/ashishranjan88/Computer_Architecture" width="400"/>
-</p>
+## 🧠 Hardwired Computer Architecture Simulator
 
+A complete CPU architecture simulation inspired by Morris Mano's Computer System Architecture.
 
+### Key Features
+- 🔧 Arithmetic Logic Unit (ALU)
+- 🏗️ Control Unit Design
+- 🗂️ Registers and Memory Organization
+- ⚙️ Instruction Execution Cycle
 
-### 🎬 YouTube Enhancer
-> Browser-based productivity tool to improve the YouTube experience.
+### Tech Stack
+`Logisim` `Digital Logic Design`
 
-- ⚡ Enhanced viewing controls
-- 🎨 Better UI/UX experience
-- 📺 Custom playback features
-- 🛠️ Built using JavaScript
+🔗 Repository: YOUR_REPOSITORY_LINK
 
-🔗 **Repository:** [GitHub Link Here](YOUR_GITHUB_LINK)
 ---
 
-### 💼 Internship Platform
-> A centralized platform connecting students with internship opportunities.
+## 🎬 YouTube Enhancer
 
-- 🔍 Browse internship listings
+A browser extension that improves productivity and enhances the YouTube viewing experience.
+
+### Key Features
+- ⚡ Enhanced playback controls
+- 🎨 Improved user experience
+- 📺 Custom video interaction features
+- 🚀 Lightweight and fast
+
+### Tech Stack
+`JavaScript` `HTML` `CSS`
+
+🔗 Repository: YOUR_REPOSITORY_LINK
+
+---
+
+## 💼 Internship Platform
+
+A centralized platform connecting students with internship opportunities.
+
+### Key Features
+- 🔍 Internship discovery
 - 📝 Application management
-- 📱 Responsive design
-- 🌐 Built using HTML, CSS & JavaScript
+- 📱 Fully responsive interface
+- 🎯 Student-focused experience
 
-🔗 **Repository:** [GitHub Link Here](YOUR_GITHUB_LINK)
- 
+### Tech Stack
+`HTML` `CSS` `JavaScript`
+
+🔗 Repository: YOUR_REPOSITORY_LINK
+
 ---
 
-### ⛑️ Helmet Detection System
-> Computer Vision project for detecting helmet usage and improving road safety.
+## ⛑️ Helmet Detection System
 
+A computer vision solution designed to monitor helmet compliance and improve road safety.
+
+### Key Features
 - 🎥 Real-time helmet detection
 - 🤖 Object detection using OpenCV
-- 📈 Safety monitoring solution
-- 🐍 Built with Python
+- 📈 Safety monitoring system
+- ⚡ Fast video processing
 
-🔗 **Repository:** [GitHub Link Here](YOUR_GITHUB_LINK)
- 
----
+### Tech Stack
+`Python` `OpenCV`
 
-### 🌐 [**Personal Portfolio Website**](https://my-portfolio-ashish.vercel.app/)
-> Developed a **responsive, interactive portfolio** to showcase projects, skills & experience. Features:
-- ✨ Modern UI/UX with **Framer Motion**
-- 💼 Smooth animations & scroll effects
-- 📩 Contact form integration
-- 🌐 Built using **React**, **Tailwind CSS**, and deployed on **Vercel**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashishranjan/assets/main/portfolio-demo.gif" width="600"/>
-</p>
+🔗 Repository: YOUR_REPOSITORY_LINK
 
 ---
 
+## 🌐 Personal Portfolio Website
 
+A modern portfolio website showcasing projects, skills, and achievements.
 
----
+### Key Features
+- ✨ Smooth Framer Motion animations
+- 🎨 Modern responsive UI
+- 📱 Mobile-friendly design
+- 🚀 Deployed on Vercel
 
+### Tech Stack
+`React` `Tailwind CSS` `Framer Motion`
 
+🌐 Live Demo: https://my-portfolio-ashish.vercel.app/
 
----
-
-### 🗳️ [**Enhanced Secure Voting System (Blockchain)**](#)
-> A decentralized, tamper-proof **voting system** using **Ethereum blockchain** 🔐  
-- 🧾 Smart contracts (Solidity) for vote authentication  
-- 🗳️ Real-time vote visibility  
-- 🔗 Web3.js + MetaMask for user interaction  
-- 🛠️ Stack: `Solidity`, `React`, `Node.js`, `MongoDB`, `Web3.js`, `Express`
-
-
-
-
-### 🛫 [**Ashish Tours and Travels**](#)
-> Full-stack responsive web app promoting **Varanasi tourism** 🌆  
-- 🏨 Hotel listings with **image gallery & filters**
-- 📱 Mobile-first UI with dynamic EJS templating
-- 🧠 Built with **React**, **Node.js**, **Express**, **MongoDB**, **EJS**
-- 🔒 Admin dashboard + booking flow (to be deployed)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashishranjan/assets/main/voting-blockchain.gif" width="500"/>
-</p>
+🔗 Repository: YOUR_REPOSITORY_LINK
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishranjan&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishranjan&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishranjan&layout=compact&theme=dark" />
-</p>
+## 🗳️ Blockchain Voting System
+
+A decentralized and tamper-proof voting platform powered by Ethereum smart contracts.
+
+### Key Features
+- 🔐 Secure blockchain-based voting
+- 🧾 Smart contract authentication
+- 📊 Transparent vote counting
+- 🔗 MetaMask integration
+
+### Tech Stack
+`Solidity` `React` `Web3.js` `Node.js` `MongoDB`
+
+🔗 Repository: YOUR_REPOSITORY_LINK
 
 ---
 
-## 🏆 Achievements & Extras
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishranjan&theme=darkhub&no-bg=true&margin-w=15" />
-</p>
+## 🛫 Ashish Tours & Travels
+
+A full-stack tourism platform promoting Varanasi tourism experiences.
+
+### Key Features
+- 🏨 Hotel and destination listings
+- 📸 Interactive image galleries
+- 📱 Responsive user interface
+- 🔒 Admin management dashboard
+
+### Tech Stack
+`React` `Node.js` `Express.js` `MongoDB` `EJS`
+
+🔗 Repository: YOUR_REPOSITORY_LINK
 
 ---
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashish-ranjan-104365312/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:ranjanashish8739@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
-</p>
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ashishranjan&color=green)
