@@ -16,6 +16,64 @@
 
 ## ✨ Highlight Projects
 
+### 🎭 Facial Recognition Attendance System
+> AI-powered attendance management system using face recognition technology.
+
+- 👤 Real-time face detection & recognition
+- 📊 Automatic attendance marking
+- 🐍 Built with Python, OpenCV & Face Recognition
+- 💾 Attendance records stored automatically
+
+🔗 **Repository:** [GitHub Link Here]( https://github.com/ashishranjan88/Facial_recognization_attendance_system)
+ 
+---
+
+### 🧠 [**Hardwired Computer Architecture (Logisim)**](#)
+> Simulation of a basic **hardwired CPU architecture** 🔧  
+- Includes: **ALU, control unit, registers, memory**  
+- Inspired by Morris Mano textbook  
+- Great hands-on learning of CPU logic & data paths  
+<p align="center">
+  <img src=" https://github.com/ashishranjan88/Computer_Architecture" width="400"/>
+</p>
+
+
+
+### 🎬 YouTube Enhancer
+> Browser-based productivity tool to improve the YouTube experience.
+
+- ⚡ Enhanced viewing controls
+- 🎨 Better UI/UX experience
+- 📺 Custom playback features
+- 🛠️ Built using JavaScript
+
+🔗 **Repository:** [GitHub Link Here](YOUR_GITHUB_LINK)
+---
+
+### 💼 Internship Platform
+> A centralized platform connecting students with internship opportunities.
+
+- 🔍 Browse internship listings
+- 📝 Application management
+- 📱 Responsive design
+- 🌐 Built using HTML, CSS & JavaScript
+
+🔗 **Repository:** [GitHub Link Here](YOUR_GITHUB_LINK)
+ 
+---
+
+### ⛑️ Helmet Detection System
+> Computer Vision project for detecting helmet usage and improving road safety.
+
+- 🎥 Real-time helmet detection
+- 🤖 Object detection using OpenCV
+- 📈 Safety monitoring solution
+- 🐍 Built with Python
+
+🔗 **Repository:** [GitHub Link Here](YOUR_GITHUB_LINK)
+ 
+---
+
 ### 🌐 [**Personal Portfolio Website**](https://my-portfolio-ashish.vercel.app/)
 > Developed a **responsive, interactive portfolio** to showcase projects, skills & experience. Features:
 - ✨ Modern UI/UX with **Framer Motion**
@@ -29,23 +87,11 @@
 
 ---
 
-### 🛫 [**Ashish Tours and Travels**](#)
-> Full-stack responsive web app promoting **Varanasi tourism** 🌆  
-- 🏨 Hotel listings with **image gallery & filters**
-- 📱 Mobile-first UI with dynamic EJS templating
-- 🧠 Built with **React**, **Node.js**, **Express**, **MongoDB**, **EJS**
-- 🔒 Admin dashboard + booking flow (to be deployed)
+
 
 ---
 
-### 🧠 [**Hardwired Computer Architecture (Logisim)**](#)
-> Simulation of a basic **hardwired CPU architecture** 🔧  
-- Includes: **ALU, control unit, registers, memory**  
-- Inspired by Morris Mano textbook  
-- Great hands-on learning of CPU logic & data paths  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashishranjan/assets/main/logisim-cpu.gif" width="400"/>
-</p>
+
 
 ---
 
@@ -55,6 +101,16 @@
 - 🗳️ Real-time vote visibility  
 - 🔗 Web3.js + MetaMask for user interaction  
 - 🛠️ Stack: `Solidity`, `React`, `Node.js`, `MongoDB`, `Web3.js`, `Express`
+
+
+
+
+### 🛫 [**Ashish Tours and Travels**](#)
+> Full-stack responsive web app promoting **Varanasi tourism** 🌆  
+- 🏨 Hotel listings with **image gallery & filters**
+- 📱 Mobile-first UI with dynamic EJS templating
+- 🧠 Built with **React**, **Node.js**, **Express**, **MongoDB**, **EJS**
+- 🔒 Admin dashboard + booking flow (to be deployed)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashishranjan/assets/main/voting-blockchain.gif" width="500"/>
